@@ -6,10 +6,10 @@ I did the following. I created a separate file for dictionary words called "Data
 Here is how it works from the perspective of the user:
 
 1) After where it says "Search [X]: ", four parameters are possible:
-The first parameter must be the word you'd like the definition of.
-The second parameter can be left blank or must be either a part of speech, the key 'distinct', which filters out duplicate definitions, or the key 'reverse', which reverses the display from A-Z (alphabetical order) to Z-A.
-The third parameter can be left blank or must be either 'distinct' or 'reverse'.
-The fourth and final parameter can be left blank or must be the key 'reverse'.
+   - The first parameter must be the word you'd like the definition of.
+   - The second parameter can be left blank or must be either a part of speech, the key 'distinct', which filters out duplicate definitions, or the key 'reverse', which reverses the display from A-Z (alphabetical order) to Z-A.
+   - The third parameter can be left blank or must be either 'distinct' or 'reverse'.
+   - The fourth and final parameter can be left blank or must be the key 'reverse'.
 2) The words that are part of the vocabulary of this dictionary are the following: arrow, book, distinct, placeholder, reverse, snow, green, earth, pepper, paper, wind, pencil, water, sprinkle, leaf, soil, ocean, cloud, and trunk. 
 This is how it will look when you run it:
 
